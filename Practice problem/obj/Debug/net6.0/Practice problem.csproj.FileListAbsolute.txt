@@ -1,0 +1,15 @@
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\Practice problem.exe
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\Practice problem.deps.json
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\Practice problem.runtimeconfig.json
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\Practice problem.dll
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\ref\Practice problem.dll
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\bin\Debug\net6.0\Practice problem.pdb
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.csproj.AssemblyReference.cache
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.AssemblyInfoInputs.cache
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.AssemblyInfo.cs
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.dll
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\ref\Practice problem.dll
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.pdb
+C:\Users\Ankit Ghosh\test\Practice problem\Practice problem\obj\Debug\net6.0\Practice problem.genruntimeconfig.cache
